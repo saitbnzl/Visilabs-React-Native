@@ -1,6 +1,6 @@
 {
   "name": "@relateddigital/visilabs-react-native",
-  "version": "1.0.22",
+  "version": "1.0.23",
   "description": "visilabs react native sdk",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,8 @@
   },
   "homepage": "https://github.com/visilabs/Visilabs-React-Native#readme",
   "dependencies": {
-    "querystring": "^0.2.0",
-    "expo-constants": "^8.0.0"
+    "@react-native-community/async-storage": "^1.8.1",
+    "expo-constants": "^8.0.0",
+    "querystring": "^0.2.0"
   }
 }

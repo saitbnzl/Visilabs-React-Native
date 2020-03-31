@@ -1,4 +1,5 @@
-import { AsyncStorage, Platform } from "react-native"
+import { Platform } from "react-native"
+import AsyncStorage from '@react-native-community/async-storage'
 import Constants from 'expo-constants'
 var querystring = require('querystring');
 
